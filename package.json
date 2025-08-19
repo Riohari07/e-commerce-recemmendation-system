@@ -1,5 +1,13 @@
 {
   "dependencies": {
-    "axios": "^1.8.4"
+    "@google-cloud/text-to-speech": "^6.1.0",
+    "@google/generative-ai": "^0.24.1",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0"
+  },
+  "scripts": {
+    "start": "index.js"
   }
 }
